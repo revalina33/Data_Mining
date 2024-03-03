@@ -1,5 +1,7 @@
 NAMA: Sanny Revalina Abigail
+
 Nim : 2209116064
+
 Sistem Informasi(B)
 
 Link CheckPoint(2):
